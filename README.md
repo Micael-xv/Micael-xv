@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou Micael Trevisan 👋🏻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/micael-trevisan-413221206)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-trevisan-413221206)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/micael_trevisan)
 
 ![Micael GitHub stats](https://github-readme-stats.vercel.app/api?username=Micael-xv&show_icons=true&theme=radical)
