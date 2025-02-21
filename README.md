@@ -1,5 +1,6 @@
 
 ### Olá! Eu sou Micael Trevisan 👋🏻
+#### Sou apaixonado por tecnologia. Ao longo do tempo, tive a oportunidade de aprender e me aprofundar em diferentes áreas, criação de aplicações web e mobile, além de explorar o universo da programação.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-trevisan-413221206)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/micael_trevisan)
