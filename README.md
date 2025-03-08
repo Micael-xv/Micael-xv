@@ -22,6 +22,7 @@
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
+
 ![Micael GitHub stats](https://github-readme-stats.vercel.app/api?username=Micael-xv&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Micael-xv&layout=compact)
