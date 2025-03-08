@@ -8,10 +8,6 @@
 - **Desenvolvimento do Centro de Memória do Oeste de Santa Catarina – CEOM**, tanto no desenvolvimento do Backend como do frontend.
 - **Desenvolvimento de uma API RESTful em Node.js utilizando Sequelize** para gerenciar arquivos, sistemas e tipos de arquivos. A aplicação inclui operações CRUD completas, manipulação de arquivos com autenticação JWT e suporte a upload, validação e conversão de arquivos para Base64. O projeto prioriza segurança, organização modular e boas práticas de desenvolvimento backend.
 
-![Micael GitHub stats](https://github-readme-stats.vercel.app/api?username=Micael-xv&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Micael-xv&layout=compact)
-
 ## Tecnologias que eu uso no meu dia
 
 <div>
@@ -25,6 +21,10 @@
   <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
+
+![Micael GitHub stats](https://github-readme-stats.vercel.app/api?username=Micael-xv&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Micael-xv&layout=compact)
 
 ## Contato
 
