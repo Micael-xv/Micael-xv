@@ -1,6 +1,14 @@
-
 ### Olá! Eu sou Micael Trevisan 👋🏻
 #### Sou apaixonado por tecnologia. Ao longo do tempo, tive a oportunidade de aprender e me aprofundar em diferentes áreas, criação de aplicações web e mobile, além de explorar o universo da programação.
+
+## Experiências
+
+- **Desenvolvimento de APIs RESTful em Node.js** para a integração de sistemas e gerenciar dados.
+- **Contribuição para o desenvolvimento de aplicações web** como estagiário na Universidade Comunitária da Região de Chapecó.
+- **Desenvolvimento do Centro de Memória do Oeste de Santa Catarina – CEOM**, tanto no desenvolvimento do Backend como do frontend.
+- **Desenvolvimento de uma API RESTful em Node.js utilizando Sequelize** para gerenciar arquivos, sistemas e tipos de arquivos. A aplicação inclui operações CRUD completas, manipulação de arquivos com autenticação JWT e suporte a upload, validação e conversão de arquivos para Base64. O projeto prioriza segurança, organização modular e boas práticas de desenvolvimento backend.
+
+## Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-trevisan-413221206)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/micael_trevisan)
