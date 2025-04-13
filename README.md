@@ -1,5 +1,5 @@
 ### Olá! Eu sou Micael Trevisan 👋🏻
-#### Sou apaixonado por tecnologia. Ao longo do tempo, tive a oportunidade de aprender e me aprofundar em diferentes áreas, criação de aplicações web e mobile, além de explorar o universo da programação.
+#### Sou apaixonado por tecnologia. Ao longo do tempo, tive a oportunidade de aprender e me aprofundar em diferentes áreas, criação de aplicações web e mobile, além de explorar o universo da programação e segurança.
 
 ## Experiências
 
