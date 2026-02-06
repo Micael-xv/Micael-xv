@@ -33,25 +33,9 @@ Sou apaixonado por tecnologia. Ao longo do tempo, tive a oportunidade de aprende
 </div>
 
 ---
-
-## 📊 GitHub Stats (novos e estáveis)
-
-### Opção 1 — GitHub Stats Fast
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Micael-xv&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Micael-xv&layout=compact&theme=radical&cache_seconds=1800)
-
----
-
-### Opção 2 — GitHub Activity (Render)
-![GitHub Activity](https://kasroudra-stats-card.onrender.com/user?user=Micael-xv&theme=radical)
-
 ![Top Languages](https://kasroudra-stats-card.onrender.com/lang?user=Micael-xv&layout=compact&theme=radical)
-
----
-
-### Opção 3 — GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Micael-xv&theme=radical&hide_border=true)
 
 ---
 
