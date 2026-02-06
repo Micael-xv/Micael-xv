@@ -6,14 +6,19 @@ Sou apaixonado por tecnologia. Ao longo do tempo, tive a oportunidade de aprende
 
 ## 💼 Experiências
 
-- Desenvolvimento de **APIs RESTful em Node.js** para integração de sistemas e gerenciamento de dados.
-- Contribuição no desenvolvimento de **aplicações web** como estagiário na **Universidade Comunitária da Região de Chapecó**.
-- Desenvolvimento do **Centro de Memória do Oeste de Santa Catarina (CEOM)**, atuando tanto no **backend** quanto no **frontend**.
-- Desenvolvimento de uma **API RESTful em Node.js com Sequelize**, incluindo:
-  - Operações CRUD completas  
-  - Autenticação com **JWT**  
-  - Upload, validação e conversão de arquivos para **Base64**  
-  - Estrutura modular, foco em **segurança** e boas práticas de backend
+- **Desenvolvedor Júnior — ZettaBrasil Sistemas de Gestão ERP**
+  - Refatoração e manutenção de sistemas ERP em **PHP**, com foco em performance e estabilidade
+  - Desenvolvimento e customização de **relatórios gerenciais** com novas colunas e métricas
+  - Criação de **novas telas e funcionalidades** para expansão do sistema
+  - Diagnóstico e correção de **bugs**, garantindo a confiabilidade das aplicações
+
+- **Desenvolvedor Web — Pollen Parque Científico e Tecnológico (CRS)**
+  - Desenvolvimento de **API RESTful em Node.js** utilizando **Sequelize**
+  - Implementação de **autenticação JWT** para proteção de endpoints
+  - Funcionalidades de **upload, validação e manipulação de arquivos**
+  - Conversão de arquivos para **Base64** seguindo boas práticas de backend
+  - Desenvolvimento completo do sistema do CEOM (**frontend e backend**)
+  - Digitalização e organização de **acervo histórico**
 
 ---
 
